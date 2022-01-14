@@ -1,7 +1,5 @@
 # Data-preprocessing-Analysis-Visualization
-Titanic Data-Analysis
-
-I have worked on this great project in participation with my teammates
+Titanic Data
 
 A great experience gained while working on such a dataset
 
